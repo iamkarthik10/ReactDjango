@@ -1,0 +1,47 @@
+.bucket-main-container{
+    margin: auto;
+    width: 50%;
+    text-align: center;
+    border: 2px double rgb(206, 194, 194);
+    border-radius: 10px;
+    min-width: 1300px;
+    min-height: 400px;
+}
+.bucket-create{
+    margin-bottom: 15px;
+    margin-top: 15px;
+}
+
+.bucket-create input{
+    margin-left: 10px;
+    margin-right: 5px;
+    width: 45%;
+}
+
+.bucket-create select{
+    margin-left: 5px;
+    margin-right: 10px;
+}
+
+.bucket-sub-container{
+    padding:50px;
+}
+
+.bucket-sub-container a{
+    text-decoration: none;
+    padding-top: 20px;
+    color: blue;
+}
+
+.bucket-list-container{
+    padding: 5px;
+}
+
+.bucket-list-container{
+    cursor: default;
+}
+
+.bucket-list-container label{
+    cursor: pointer;
+    text-decoration: none;
+}

@@ -1,0 +1,54 @@
+.login-main-container{
+    text-align: center;
+    width: 100%;
+}
+
+.login-sub-container{
+    padding-top: 100px;
+    padding-bottom: 100px;
+    padding-left: 200px;
+    padding-right: 200px;
+}
+
+.login-control{
+    margin-top: 10px;
+    padding-left: 12%;
+    padding-right: 15%;
+    width: 75%;
+    justify-content: center;
+    display: flex;
+}
+
+.login-form {
+    padding: 15px;
+    padding-left: 12%;
+    padding-right: 15%;
+    width: 75%;
+    border: 1.5px double grey;
+}
+
+.login-name {
+    padding: 10px;
+}
+
+.login-password{
+    padding: 10px;
+}
+
+.login-name input{
+    width: 20%;
+}
+
+.login-password input{
+    width: 20%;
+}
+
+.loggin{
+    margin-right: 10px;
+}
+
+.signup{
+    margin-left: 10px;
+}
+
+
